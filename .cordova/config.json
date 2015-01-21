@@ -1,0 +1,10 @@
+{
+    "lib": {
+        "www": {
+            "id": "com.stevelacy.phonegapgcm",
+            "version": "master",
+            "uri": "https://github.com/stevelacy/phonegap-gcm/archive/master.tar.gz",
+            "link": false
+        }
+    }
+}
