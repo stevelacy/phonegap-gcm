@@ -10,6 +10,6 @@ phonegap plugin add com.phonegap.plugins.pushplugin
 
 - title: message title
 - message: message content
-- msgcng: count of notifications
+- msgcnt: count of notifications
 - notId: notification id
 
